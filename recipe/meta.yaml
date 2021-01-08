@@ -13,11 +13,11 @@ source:
   {{ hashtype }}: {{ hash }}
 
 build:
-    number: 1002
+    number: 1003
     script: python setup.py install --single-version-externally-managed --record record.txt
 
 requirements:
-    build:
+    host:
         - python
         - setuptools
     run:
