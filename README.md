@@ -3,7 +3,7 @@ About metaphone
 
 Home: https://github.com/oubiwann/metaphone
 
-Package license: BSD 3-clause
+Package license: BSD-3-Clause
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/metaphone-feedstock/blob/main/LICENSE.txt)
 
