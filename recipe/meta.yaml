@@ -13,7 +13,7 @@ source:
   {{ hashtype }}: {{ hash }}
 
 build:
-    number: 1004
+    number: 1005
     script: python -m pip install . -vv
     noarch: python
 
@@ -30,7 +30,7 @@ test:
 
 about:
     home: https://github.com/oubiwann/metaphone
-    license: BSD 3-clause
+    license: BSD-3-Clause
     license_file: LICENSE
     license_family: BSD
     summary: A Python implementation of the double metaphone algorithms
